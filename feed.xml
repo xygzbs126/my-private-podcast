@@ -2,6 +2,7 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+
     <title>我的私人播客</title>
     <link>https://xygzbs126.github.io/my-private-podcast/</link>
     <description>我的私人播客，用来收听自己的双语故事和音频。</description>
@@ -9,6 +10,21 @@
 
     <itunes:author>Ava</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+
+    <item>
+      <title>第1集：我的第一期播客</title>
+
+      <description>我的私人播客第一集</description>
+
+      <enclosure
+        url="https://xygzbs126.github.io/my-private-podcast/00001.mp3"
+        type="audio/mpeg" />
+
+      <guid isPermaLink="false">episode-00001</guid>
+
+      <pubDate>Tue, 22 Sep 2026 19:00:00 +0800</pubDate>
+
+    </item>
 
   </channel>
 </rss>
