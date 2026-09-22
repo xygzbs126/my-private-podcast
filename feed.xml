@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>我的私人播客</title>
+    <link>https://xygzbs126.github.io/my-private-podcast/</link>
+    <description>我的私人播客，用来收听自己的双语故事和音频。</description>
+    <language>zh-cn</language>
+
+    <itunes:author>Ava</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+
+  </channel>
+</rss>
